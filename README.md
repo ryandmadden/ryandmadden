@@ -21,4 +21,6 @@ I built my first analytics dashboard to solve a problem no one asked me to fix. 
 📌 Check out my pinned repos below!
 
 ---
-📫 **Let's connect:** [LinkedIn](https.www.linkedin.com/in/ryan~madden) | rdmadden@uncg.edu
+📫 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan~madden)  
+📧 [rdmadden@uncg.edu](mailto:rdmadden@uncg.edu)
