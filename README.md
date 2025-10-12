@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Ryan 👋
 
-<!--
-**ryandmadden/ryandmadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I built my first analytics dashboard to solve a problem no one asked me to fix. Now I build data solutions that drive real business impact.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 📊 Fine-tuning LLMs to reduce bias in hiring practices
+- 🎯 Building budget & variance analytics models in Python
+- 🤖 Creating quality datasets for AI model training (4,200+ and counting)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** Python, SQL, R  
+**Libraries:** pandas, NumPy, scikit-learn  
+**Tools:** Tableau, Excel, OpenAI API, Git  
+
+## Current Focus
+🎓 Junior @ UNC Greensboro studying IS & Supply Chain (Business Analytics)  
+💼 AI Data Quality Analyst improving LLM accuracy  
+🔍 Seeking summer/spring 2026 internships in data analytics & AI
+
+## Featured Projects
+📌 Check out my pinned repos below!
+
+---
+📫 **Let's connect:** [LinkedIn](linkedin.com/in/ryan~madden) | rdmadden@uncg.edu
