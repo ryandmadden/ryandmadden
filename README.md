@@ -3,8 +3,6 @@
 I built my first analytics dashboard to solve a problem no one asked me to fix. Now I build data solutions that drive real business impact.
 
 ## What I'm Working On
-- 📊 LLM Business Chart Benchmark
-- 🎯 Building budget & variance analytics models in Python
 - 🤖 Creating quality datasets for AI model training (4,200+ and counting)
 
 ## Tech Stack
